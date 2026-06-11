@@ -1,0 +1,9 @@
+{
+  "name": "tminus-race-to-renewal-api",
+  "version": "1.0.0",
+  "description": "Azure Functions API for the T-Minus Race to Renewal trainer (GetRoles tenant gate only).",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {}
+}
